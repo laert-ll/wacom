@@ -1,1 +1,1 @@
-# wacom bash scripts
+# wacom-scripts
